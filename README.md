@@ -11,7 +11,7 @@
 ##**例子**:
 ### [imgPixels,vicarProperty] = vicarread('N1827817331_1.IMG',0.5);
 ### imshow(imgPixels)
-
+![测试截图](https://github.com/jnulzl/vicarRead/blob/master/testScreenshots.png)
 ##**参考文献**：[The VICAR file format](http://www-mipl.jpl.nasa.gov/external/VICAR_file_fmt.pdf)
 ##**作者**:李照亮
 ##**时间**:2016.11
